@@ -1,9 +1,0 @@
-Contributors
-------------
-
- * Bradley R. Monk <bmonk@ucsd.edu>
- * Daniel L. Hermes <dhermes@berkeley.edu>
-
-..
-    Generate above list using:
-    git log | grep "^Author:" | sort | uniq | sed s/Author:\ //
